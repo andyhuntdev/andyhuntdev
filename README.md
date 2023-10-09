@@ -30,5 +30,5 @@ Web app for monitoring the top 100 cryptocurrencies using Coingecko api service.
 Web App to discover Rick and Morty's characters profiles developed with Reactjs and GraphQL
 
 #### Tech stack:
-- FE Website & mobile app: Reactjs, Styled components, Graphql, Apollo
+- FE Website & mobile app: Reactjs, Typescript, Styled components, Graphql, Apollo
 - APIs: The Rick and Morty API
